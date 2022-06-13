@@ -1,5 +1,5 @@
 
-__version__= "dev"
+__version__= "1.02"
 
 def Quit(num="None"):
     if num=="None":
