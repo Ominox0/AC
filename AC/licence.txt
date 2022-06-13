@@ -1,5 +1,0 @@
-please feel free to use this python module and improve it if you want
-
-Created by Fran Stanić
-
-(Modified version can be sended on franstanic24@gmail.com)
