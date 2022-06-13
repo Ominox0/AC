@@ -6,7 +6,7 @@ setup(
     name='AC',
     version=__version__,
 
-    url='https://github.com/MichaelKim0407/tutorial-pip-package',
+    url='https://github.com/Ominox0/AC',
     author='Fran Stanić',
     author_email='franstanic24@gmail.com',
 
